@@ -25,8 +25,6 @@ import eval_model as E
 
 def calc_cam(x, label, model):
     """
-    function to generate a class activation map corresponding to a torch image tensor
-
     Args:
         x: the 1x3x224x224 pytorch tensor file that represents the NIH CXR
         label:user-supplied label you wish to get class activation map for; must be in FINDINGS list
