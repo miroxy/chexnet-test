@@ -29,37 +29,37 @@ This reproduction achieved diagnosis-level AUC as given below compared to origin
   <tbody>
     <tr>
       <th>Atelectasis</th>
-      <td>0.8180</td>
+      <td>0.8331</td>
       <td>0.8094</td>
     </tr>
     <tr>
       <th>Cardiomegaly</th>
-      <td>0.9090</td>
+      <td>0.9067</td>
       <td>0.9248</td>
     </tr>
     <tr>
       <th>Consolidation</th>
-      <td>0.8002</td>
+      <td>0.8115</td>
       <td>0.7901</td>
     </tr>
     <tr>
       <th>Edema</th>
-      <td>0.8945</td>
+      <td>0.8970</td>
       <td>0.8878</td>
     </tr>
     <tr>
       <th>Effusion</th>
-      <td>0.8827</td>
+      <td>0.8879</td>
       <td>0.8638</td>
     </tr>
     <tr>
       <th>Emphysema</th>
-      <td>0.9316</td>
+      <td>0.9363</td>
       <td>0.9371</td>
     </tr>
     <tr>
       <th>Fibrosis</th>
-      <td>0.8251</td>
+      <td>0.8478</td>
       <td>0.8047</td>
     </tr>
     <tr>
@@ -69,32 +69,32 @@ This reproduction achieved diagnosis-level AUC as given below compared to origin
     </tr>
     <tr>
       <th>Infiltration</th>
-      <td>0.7156</td>
+      <td>0.7219</td>
       <td>0.7345</td>
     </tr>
     <tr>
       <th>Mass</th>
-      <td>0.8377</td>
+      <td>0.8556</td>
       <td>0.8676</td>
     </tr>
     <tr>
       <th>Nodule</th>
-      <td>0.7756</td>
+      <td>0.8112</td>
       <td>0.7802</td>
     </tr>
     <tr>
       <th>Pleural_Thickening</th>
-      <td>0.7889</td>
+      <td>0.7935</td>
       <td>0.8062</td>
     </tr>
     <tr>
       <th>Pneumonia</th>
-      <td>0.7617</td>
+      <td>0.7759</td>
       <td>0.7680</td>
     </tr>
     <tr>
       <th>Pneumothorax</th>
-      <td>0.8776</td>
+      <td>0.8854</td>
       <td>0.8887</td>
     </tr>
   </tbody>
