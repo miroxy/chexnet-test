@@ -1,4 +1,4 @@
-# reproduce-chexnet
+# lungvision
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/miroxy/chexnet-test/master?labpath=predictions.ipynb)
 
 Provides Python code to reproduce model training, predictions, and heatmaps from the [CheXNet paper](https://arxiv.org/pdf/1711.05225) that predicted 14 common diagnoses using convolutional neural networks in over 100,000 NIH chest x-rays.
